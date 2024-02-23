@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PHP.<br>👯 I’m looking to collaborate on anything Coding.<br>🌱 I’m currently learning PHP and SQL.<br>💬 Ask me about HTML, CSS and JavaScript.<br>⚡ Fun fact - I love writing and that includes writing codes. 
+🔭 I’m currently working on PHP/ Laravel.<br>👯 I’m looking to collaborate on anything Coding.<br>🌱 I’m currently learning Node.js (Express.js & React).<br>💬 Ask me about HTML, CSS JavaScript and SQL.<br>⚡ Fun fact - I love writing and that includes writing codes. 
 
 
 # 💻 Tech Stack:
